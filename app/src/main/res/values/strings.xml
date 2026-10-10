@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stride</string>
+    <string name="widget_name">Stride Steps</string>
+    <string name="widget_description">Displays today\'s step count and progress towards your daily goal.</string>
+</resources>

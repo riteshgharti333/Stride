@@ -1,0 +1,6 @@
+{
+  "name": "Stride",
+  "description": "A premium minimalist step counter with accurate tracking, weekly analytics, and ultra-low battery consumption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

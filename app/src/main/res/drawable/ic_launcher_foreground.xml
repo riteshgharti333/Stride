@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Right step / front stride sole in Cobalt Blue -->
+        <!-- Front sole pad -->
+        <path
+            android:fillColor="#2563EB"
+            android:pathData="M 57,34 C 63,33 69,38 70,45 C 71,51 66,57 60,57 C 55,57 52,53 52,47 C 52,40 54,34 57,34 Z" />
+        <!-- Heel pad -->
+        <path
+            android:fillColor="#2563EB"
+            android:pathData="M 60,63 C 64,63 67,66 67,70 C 67,73 64,76 60,76 C 56,76 54,73 54,70 C 54,66 56,63 60,63 Z" />
+
+        <!-- Left step / trailing stride sole in Crimson Red -->
+        <!-- Front sole pad -->
+        <path
+            android:fillColor="#EF4444"
+            android:pathData="M 43,44 C 47,43 51,47 52,52 C 53,57 49,62 44,62 C 40,62 38,59 38,54 C 38,49 39,44 43,44 Z" />
+        <!-- Heel pad -->
+        <path
+            android:fillColor="#EF4444"
+            android:pathData="M 45,67 C 48,67 50,69 50,72 C 50,75 48,77 45,77 C 42,77 40,75 40,72 C 40,69 42,67 45,67 Z" />
+
+        <!-- Dynamic motion arc in Blue -->
+        <path
+            android:strokeColor="#3B82F6"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 33,38 C 45,26 63,26 75,38" />
+
+        <!-- Accent milestone pip in Red -->
+        <path
+            android:fillColor="#EF4444"
+            android:pathData="M 75,38 A 2.5,2.5 0 1,0 75,33 A 2.5,2.5 0 1,0 75,38 Z" />
+    </group>
+</vector>
